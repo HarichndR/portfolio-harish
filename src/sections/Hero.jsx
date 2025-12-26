@@ -39,7 +39,7 @@ export default function Hero() {
                         </a>
 
                         <a
-                            href="https://drive.google.com/file/d/15yRIZYzQaV_Xl_jFKymxzK0JCLbdyK6E/view?usp=drive_link"
+                            href="https://drive.google.com/file/d/1eZCbGPDZKJOPa2ONcqfRnW_9TmgKn8CX/view?usp=sharing"
                             className="flex items-center gap-2 px-5 py-3 border border-slate-600 rounded-lg hover:bg-slate-800"
                         >
                             <FileText size={18} /> Resume

@@ -24,7 +24,7 @@ export default function Footer() {
                 <a href="https://www.linkedin.com/in/harichndr-solunke-9849b7232/" className="hover:text-emerald-400">
                     <Linkedin />
                 </a>
-            </div>
+            </div><a className="flex justify-center gap-6 text-s77">9307541477</a>
 
             <p className="mt-8 text-xs text-slate-600 font-mono">
                 © {new Date().getFullYear()} Harichndr Solunke
